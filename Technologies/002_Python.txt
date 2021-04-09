@@ -1,0 +1,6 @@
+SCRIPTS RELATED
+Projects related to Python language
+python3
+pycharm-ide
+notebook-jupyter
+devops

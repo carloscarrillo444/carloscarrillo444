@@ -1,0 +1,2 @@
+SCRIPTS RELATED
+Specific admin scripts for suite management SAP Opentext

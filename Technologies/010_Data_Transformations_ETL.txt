@@ -1,0 +1,8 @@
+SCRIPTS RELATED
+Scripts ETL / SSIS / MS Server Data tools
+etl
+ssis-packages
+reporting-tool
+ssrs-reports
+powerbi
+cristal-report

@@ -1,0 +1,9 @@
+SCRIPTS RELATED
+Projects related to Server management / Bash
+microsoft-server
+linux
+redhat
+bash-script
+powershell-script
+wmi
+365

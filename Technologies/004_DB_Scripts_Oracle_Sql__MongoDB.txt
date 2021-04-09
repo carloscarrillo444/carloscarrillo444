@@ -1,0 +1,8 @@
+SCRIPTS RELATED
+Projects related to BD designs
+mongodb
+nodejs
+cassandra
+oracle
+mysql
+sqlserver
